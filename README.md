@@ -11,14 +11,7 @@ The blue line in the chart shows the growth in dataset sizes used to train major
 
 - Around 2027, models will begin "overtraining," reusing much of the same text multiple times. - By 2028, the median projection suggests that the entire stock of public data will have been effectively consumed.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
